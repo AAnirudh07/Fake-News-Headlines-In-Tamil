@@ -2,6 +2,7 @@
 
 - This Tamil fake news text corpus has 5,273 rows
 - The data was collected automatically from various verified websites by using web scraping tools
+- Download the dataset here: [Dataset](./Tamil-News-Headlines.csv)
 
 ### Corpus Statistics
 <div align='center'>
