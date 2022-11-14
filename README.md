@@ -46,3 +46,6 @@
 | RNN (2 LSTM layers)    | 75.04% |
 
 </div>
+
+### Activity
+14/11/2022: Our paper titled `A Novel Dataset for Fake News Detection in Tamil Regional Language` has been accepted for SPELLL 2022! 
