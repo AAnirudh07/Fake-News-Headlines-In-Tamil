@@ -49,3 +49,4 @@
 
 ### Activity
 14/11/2022: Our paper titled `A Novel Dataset for Fake News Detection in Tamil Regional Language` has been accepted for SPELLL 2022! 
+03/06/2023: Read our paper here: [Speech and Language Technologies for Low-Resource Languages](https://www.springerprofessional.de/en/speech-and-language-technologies-for-low-resource-languages/25417392)
